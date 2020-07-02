@@ -11,6 +11,10 @@ These softwares are required:
 - Blender
 - XCode (for iOS version)
 
+### Materials
+
+By navigating files you can access 3D models, image targets, etc.
+
 ## Running Test App
 
 Open Unity-iPhone.xcodeproj in this path 'Test->iOS', by XCode and build it while the device is connected to PC. By pointing at appropriate target you can experiment how it works.
